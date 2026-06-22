@@ -11,3 +11,7 @@ Read fuzzy paper, try to recreate stuff (not Boltzmann code stuff though) and Su
 Overarching: Dark Matter Abundance Project
 
 The idea: Dirty Astrophysics
+
+Idea: Constrained by dark matter abundance on one side, and the axion-photon bound on one side, giving us a nice, clean range of h11
+
+Order 1 pipeline: misalignment abundances, lifetime into dark sectors, does it confine as you expect
